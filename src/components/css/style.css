@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Jost',sans-serif;
+    
+}
+.box{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+   
+
+}
+.inputData{
+    background-color: #348feb;
+    width: 400px;
+    height: 500px;
+    border-radius: 15px;
+   text-align: center;
+   box-shadow: 25px 25px 35px -5px rgba(0,0,0,0.3);
+    
+}
+.inputFeild{
+    width: 150px;
+    margin-top: 30px;
+    height: 50px;
+    border-radius: 20px;
+    outline: none;
+    border: none;
+    /* box-shadow: 5px 5px 15px -5px rgba(52, 143, 235,0.3); */
+}
+/* .wave{
+    opacity: 0.3;
+    position: absolute;
+    top: 120%;
+    left: 50%;
+    background: white;
+    width: 50rem;
+    height: 50rem;
+    margin-left: -25rem;
+    margin-top: -20rem;
+    transform-origin: 50% 48%;
+    border-radius: 43%;
+    animation: drift 3000ms infinite linear;
+    z-index: 1;
+}
+.wave .-three{
+    animation: drift 5000ms infinite linear;
+    z-index: 2 !important;
+    opacity: 0.2;
+}
+.wave .-one{
+ animation: drift 5000ms infinite linear;
+ z-index: 2 !important;
+ opacity: 0.2;
+}
+.wave .-two{
+ animation:  drift 7000ms infinite linear;
+ opacity: 0.1;
+ z-index: 3 !important;
+} */
+
+.info{
+    margin-top: 200px;
+    
+}
+i{
+    font-size: 40px;
+}
+.temp{
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.tempin_max{
+    margin-top: 20px;
+    font-size: 20px;
+
+}
+
+
