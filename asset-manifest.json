@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/WeatherAppLive/static/css/main.68ae518e.css",
+    "main.js": "/WeatherAppLive/static/js/main.6c7a7918.js",
+    "static/js/592.4b87c21a.chunk.js": "/WeatherAppLive/static/js/592.4b87c21a.chunk.js",
+    "static/media/3d-weather-icon-day-with-rain-free-png.webp": "/WeatherAppLive/static/media/3d-weather-icon-day-with-rain-free-png.f675224048c99f83334f.webp",
+    "index.html": "/WeatherAppLive/index.html",
+    "main.68ae518e.css.map": "/WeatherAppLive/static/css/main.68ae518e.css.map",
+    "main.6c7a7918.js.map": "/WeatherAppLive/static/js/main.6c7a7918.js.map",
+    "592.4b87c21a.chunk.js.map": "/WeatherAppLive/static/js/592.4b87c21a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68ae518e.css",
+    "static/js/main.6c7a7918.js"
+  ]
+}
